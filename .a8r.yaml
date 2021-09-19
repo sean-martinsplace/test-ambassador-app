@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: .
+  cluster_info:
+    cluster_id: ae07ff16-2d14-51fc-a0a4-72d96ff696cc
+    cluster_name: sean's-gke-cluster
